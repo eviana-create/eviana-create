@@ -14,8 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eviana-create&hide_progress=compact)](https://github.com/eviana-create/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=show_owner&repo=github-readme-stats)](https://github.com/eviana-create/github-readme-stats)
-
 ### Tecnologias que Gostaria de Aprender.
 
 <div style="display: inline_block"><br/>
@@ -29,15 +27,14 @@
 </div>
 <br/><br/>
 
-### Ajude-me a APRIMORAR meus conhecimentos permitindo que eu trabalhe pra você ou me ajude financeiramente fazendo uma doação uma doação pix ou criptomoedas.
+### Ajude-me a APRIMORAR meus conhecimentos permitindo que eu trabalhe pra você ou me ajude financeiramente fazendo uma doação pix ou criptomoedas.
 
 - CHAVE PIX: missonzito@gmail.com - Banco caixa ou 29138142805 - mercado pago
 
 - CRIPTOMOEDAS 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="BINANCE"  src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">
-    <img aling="center" alt="BINANCE"  src="../eviana-create/img/BinancePayQR.png">    
-    </div>
+</div>
 
 1. MOEDA BITCOIN - REDE BITCOIN - PLATAFORMA BINANCE - ENDEREÇO 18vBjkRHyQdK2yDu8Gm9odNi6BMQL3BUtk
 
