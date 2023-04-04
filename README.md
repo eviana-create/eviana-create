@@ -12,8 +12,6 @@
 
 ![eviana-create GitHub stats](https://github-readme-stats.vercel.app/api?username=eviana-create&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eviana-create&hide_progress=compact)](https://github.com/eviana-create/github-readme-stats)
-
 ### Tecnologias que Gostaria de Aprender.
 
 <div style="display: inline_block"><br/>
