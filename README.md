@@ -23,6 +23,9 @@
     <img aling="center" alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
     <img aling="center" alt="KOTLIN" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 </div>
+<br/><br/a>
+
+![Snake animation](https://github.com/eviana-create/eviana-create/blob/output/github-contribution-grid-snake.svg)
 <br/><br/>
 
 ### Ajude-me a APRIMORAR meus conhecimentos permitindo que eu trabalhe pra você ou me ajude financeiramente fazendo uma doação pix ou criptomoedas.
