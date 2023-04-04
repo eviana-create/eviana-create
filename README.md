@@ -35,7 +35,8 @@
 
 - CRIPTOMOEDAS 
 <div style="display: inline_block"><br/>
-    <a href="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white"><img aling="center" alt="BINANCE"  src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white"></a>
+    <img aling="center" alt="BINANCE"  src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">
+    <img aling="center" alt="BINANCE"  src="../eviana-create/img/BinancePayQR.png">    
     </div>
 
 1. MOEDA BITCOIN - REDE BITCOIN - PLATAFORMA BINANCE - ENDEREÇO 18vBjkRHyQdK2yDu8Gm9odNi6BMQL3BUtk
