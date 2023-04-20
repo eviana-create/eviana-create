@@ -1,4 +1,4 @@
-### Hi there, Eu me Chamo Emerson Viana, Seja Bem Vindo ao meu gitHub. 👋
+### Hi there, Eu me Chamo Emerson Viana, Seja Bem Vindo ao meu gitHub, sou egresso do sistema prisional, não possuo internet, me encontro atualmente em prisão domiciliar, estou desempregado e vivo de doações de alimentos, amo tecnologia, mas não possuo recursos para prosseguir com meu aprendizado, agradeço a visita. 👋
 <br/>
 
 ### Tecnologias que estou Aprendendo
