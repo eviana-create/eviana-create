@@ -30,27 +30,3 @@
 
 ### .
 
-- CHAVE PIX: missonzito@gmail.com - Banco caixa ou 29138142805 - mercado pago
-
-- CRIPTOMOEDAS 
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="BINANCE"  src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">
-</div>
-
-1. MOEDA BITCOIN - REDE BITCOIN - PLATAFORMA BINANCE - ENDEREÇO 18vBjkRHyQdK2yDu8Gm9odNi6BMQL3BUtk
-
-2. MOEDA TRX - REDE TRX TRON(TRC20) - PLATAFORMA BINANCE - ENDEREÇO TRB2QqPPcWmgUWXUkRZqMdS37iLGFogyhP
-
-3. MOEDAS BNB, BUSD, USDT, ETH - REDE BSC BNB SMART CHAIN (BEB20) - PLATAFORMA BINANCE - ENDEREÇO 0xf906e14366239ef9866ac5bed12479c6ab3875ef
-
-### Endereços Novadax
-
-1. BNB REDE BNB SMART CHAIN(BEP20)-- 0xe5e2a786c42df844e43dbce5a1bb5d322f3fd244
-
-2. BTC REDE BITCOIN BTC -- 18cyfRsxCGxPbtRGrtN773mwqXbZSdzqpQ
-
-3. ETH REDE ETEHERIUM ETH -- 0xe5e2a786c42df844e43dbce5a1bb5d322f3fd244
-
-OBSERVE OS VALORES MINIMOS DE DEPOSITOS
-
-
