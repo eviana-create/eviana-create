@@ -1,7 +1,7 @@
 ### Hi there, Eu me Chamo Emerson Viana, Seja Bem Vindo ao meu gitHub. 👋
 <br/>
 
-### Tecnologias que ainda vou Aprendendo
+### Tecnologias que possuo conhecimentos !
 [![Habilidades](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/eviana-create/Tabela-de-todos-os-Estados/blob/main/index.html)
 [![Habilidades](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/eviana-create/Criando-menu-lateral/blob/main/style.css)
 [![Habilidades](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/eviana-create/Recriando_interfaceGrafica_netflix/tree/main/js)
